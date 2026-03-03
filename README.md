@@ -1,45 +1,45 @@
-# Hi, I'm Lina Hamad 👩‍💻
+# Lina Hamad
 
-🎓 Computer Engineering Student at Birzeit University  
-📍 Palestine  
-
----
-
-## 🚀 About Me
-
-I am passionate about building intelligent and efficient systems across different layers of computing — from hardware design and computer architecture to AI and networking.
-
-I enjoy solving complex problems, optimizing performance, and designing scalable systems.
+Computer Engineering Student at Birzeit University  
+Palestine  
 
 ---
 
-## 💡 Technical Interests
+## About Me
 
-- 🧠 Artificial Intelligence & Machine Learning
-- ⚙️ Computer Architecture (Pipelined Processor Design)
-- 🌐 Computer Networks (OSPF, Multi-Area Routing)
-- 🧩 Algorithms & Data Structures
-- 🐧 Systems & Low-level Programming
+I build intelligent and efficient systems across multiple layers of computing — from hardware-level design and computer architecture to AI-driven applications and network systems.
+
+My work focuses on structured system design, performance optimization, and scalable solution development. I am particularly interested in bridging low-level hardware understanding with high-level intelligent software systems.
 
 ---
 
-## 🔥 Featured Projects
+## Technical Interests
 
-### 🖥 5-Stage Pipelined CPU (Verilog)
-RTL implementation with forwarding, hazard detection, and control handling.
-
-### 🤖 Arabic Sentiment Analysis (AraBERT)
-ML-based sentiment classifier using embeddings + feature engineering.
-
-### 🌐 Multi-Area OSPF Network
-Cisco Packet Tracer campus network with dynamic routing and subnet planning.
-
-### 🧠 Sudoku Solver (CSP + SA)
-Constraint Satisfaction with MRV/LCV heuristics and simulated annealing.
+- Artificial Intelligence & Machine Learning
+- Computer Architecture (Pipelined Processor Design)
+- Computer Networks (OSPF, Multi-Area Routing)
+- Algorithms & Data Structures
+- Systems Programming & Low-Level Design
 
 ---
 
-## 📫 Connect With Me
+## Featured Projects
 
-- LinkedIn: [https://www.linkedin.com/in/lina-hamad-8072852b8/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
-- Email: lina.hamad2005@gmail.com
+### 5-Stage Pipelined CPU (Verilog)
+RTL implementation of a fully modular 5-stage processor (IF/ID/EX/MEM/WB) featuring forwarding, hazard detection (stall), and control hazard handling.
+
+### Arabic Sentiment Analysis (AraBERT)
+Machine learning-based sentiment classification using transformer embeddings and engineered features with comparative evaluation.
+
+### Multi-Area OSPF Network (Cisco Packet Tracer)
+Campus-scale network design implementing multi-area OSPF routing, subnet planning, and wired/wireless LAN connectivity.
+
+### Sudoku Solver (CSP + Simulated Annealing)
+Constraint Satisfaction Problem solver implementing MRV/LCV heuristics with performance comparison against stochastic optimization.
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/your-link-here  
+Email: lina.hamad2005@gmail.com
