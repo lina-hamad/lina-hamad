@@ -41,5 +41,5 @@ Constraint Satisfaction Problem solver implementing MRV/LCV heuristics with perf
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/your-link-here  
+LinkedIn:[ https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/lina-hamad-8072852b8/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 Email: lina.hamad2005@gmail.com
